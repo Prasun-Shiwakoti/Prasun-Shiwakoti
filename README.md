@@ -2,12 +2,11 @@
 
 ---
 
-I am a Web Developer who is exploring Software Developement while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
-
+As a student immersed in Web Development, I’m honing my critical thinking skills while nurturing a growing interest in Machine Learning and Cybersecurity
  💬 Ask me about Full Stack Development or any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Prasun-Shiwakoti)  <img src="https://img.shields.io/github/followers/Prasun-Shiwakoti?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=Prasun-Shiwakoti)  <img src="https://img.shields.io/github/followers/Prasun-Shiwakoti?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -23,7 +22,6 @@ I am a Web Developer who is exploring Software Developement while facilitating t
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
@@ -31,7 +29,7 @@ I am a Web Developer who is exploring Software Developement while facilitating t
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  
 
 ---
 
