@@ -4,7 +4,7 @@
 
 As a student immersed in Web Development, I’m honing my critical thinking skills while nurturing a growing interest in Machine Learning and Cybersecurity.
 <br/>
-💬 Ask me about Full Stack Development or any Tech-related stuff.
+💬 Ask me about Tech-related stuff.
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Prasun-Shiwakoti)  <img src="https://img.shields.io/github/followers/Prasun-Shiwakoti?label=Follow" style=" float:left, margin-right:10px" />
